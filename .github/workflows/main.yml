@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: shubhangi23/nodejs-app:latest
+          tags: shubhangi2307/nodejs-app:latest
